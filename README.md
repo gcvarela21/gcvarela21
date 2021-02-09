@@ -1,3 +1,6 @@
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcvarela21&show_icons=true&theme=chartreuse-dark&hide=issues,stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcvarela21&layout=compact&theme=chartreuse-dark)](https://github.com/gcvarela21/github-readme-stats)
+
 # 👋 I'm Gloria C Varela
 
 My Pronouns Are: THEY/THEM/SHE/HER
@@ -27,5 +30,3 @@ varela_gloria@yahoo.com
 <!--
 **gcvarela21/gcvarela21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcvarela21&show_icons=true&theme=chartreuse-dark&hide=issues,stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcvarela21&layout=compact&theme=chartreuse-dark)](https://github.com/gcvarela21/github-readme-stats)
