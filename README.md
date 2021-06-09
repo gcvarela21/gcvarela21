@@ -8,8 +8,8 @@ I’ve always been a hands-on person who is constantly learning new skills. Whil
 
 I transferred to Cal State East Bay where I continued my studies in UX Design. The various classes I took there opened me up to more opportunities to learn new programs and tools. Upon Completing my Degree in the Fall of 2020, I decided to further my skills and training at the University of California Berkeley’s Full-Stack Web-Developement Bootcamp. As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed for building Web-Based products.
 
-* [Web-Development Portfolio Site on GitHub](https://gcvarela21.github.io/glo.digital/)
-* [UX and UI Portfolio Site](https://www.glo.digital/)
+* [Web-Development Portfolio Site on GitHub](https://varela.design/)
+
 * [LinkedIn](https://www.linkedin.com/in/glovarela/)
 * [Instagram](https://www.instagram.com/glo.digital.ig/)
 
@@ -28,4 +28,4 @@ varela_gloria@yahoo.com
 **gcvarela21/gcvarela21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcvarela21&show_icons=true&theme=chartreuse-dark&hide=issues,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcvarela21&layout=compact&theme=chartreuse-dark)](https://github.com/gcvarela21/github-readme-stats)
--->
+* [UX and UI Portfolio Site](https://www.glo.digital/)-->
