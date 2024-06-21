@@ -8,14 +8,14 @@ I’ve always been a hands-on person who is constantly learning new skills. Whil
 
 I transferred to Cal State East Bay where I continued my studies in UX Design. The various classes I took there opened me up to more opportunities to learn new programs and tools. Upon Completing my Degree in the Fall of 2020, I decided to further my skills and training at the University of California Berkeley’s Full-Stack Web-Developement Bootcamp. As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed for building Web-Based products.
 
-* [Web-Development Portfolio Site on GitHub](https://varela.design/)
+* [Web-Development Portfolio Site on GitHub]()
 
-* [LinkedIn](https://www.linkedin.com/in/glovarela/)
-* [Instagram](https://www.instagram.com/glo.digital.ig/)
+* [LinkedIn]()
+* [Instagram]()
 
 ## Education
 
-University of California Berkeley, Certificate,  Full Stack Web Development
+University of California Berkeley, Certificate,  Full Stack Web Development Cert
 
 California State University Eastbay, Bachelors of Fine Art,  UX & Game Design
 
