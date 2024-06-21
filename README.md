@@ -23,7 +23,7 @@ Santa Ana College, Associates in Art History
 
 ### 📫 How to reach me
 
-varela_gloria@yahoo.com
+varela.c.glo@gmail.com
 <!--
 **gcvarela21/gcvarela21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcvarela21&show_icons=true&theme=chartreuse-dark&hide=issues,stars)
